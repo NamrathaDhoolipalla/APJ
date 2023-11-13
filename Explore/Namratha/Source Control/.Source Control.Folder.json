@@ -1,0 +1,23 @@
+{
+  "objectInfo" : {
+    "id" : "9i5Fb7mtM4dlb7hA6g9N6q",
+    "name" : "Source Control",
+    "type" : "Folder",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : null,
+      "contextAttributes" : [ ],
+      "additionalInfo" : {
+        "description" : "",
+        "contentType" : "Binary",
+        "documentState" : "COMPLETE"
+      }
+    }
+  },
+  "dataFileExtension" : "json",
+  "updateTime" : "2023-11-13T07:18:47.561Z",
+  "objectRefs" : [ ]
+}

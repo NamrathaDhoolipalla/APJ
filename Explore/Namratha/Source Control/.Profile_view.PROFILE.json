@@ -1,0 +1,45 @@
+{
+  "objectInfo" : {
+    "id" : "kvsI2m4Zl8idEowAouOcoU",
+    "name" : "Profile_view",
+    "type" : "PROFILE",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 1,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "4f799463-b672-4c0f-86ba-0616dbc5a184"
+      },
+      "contextAttributes" : [ ],
+      "additionalInfo" : {
+        "description" : null,
+        "contentType" : null,
+        "documentState" : "VALID"
+      }
+    }
+  },
+  "dataFileExtension" : "json",
+  "updateTime" : "2023-11-13T07:18:47.562Z",
+  "objectRefs" : [ {
+    "id" : "3IjtuPuyLHsjw0wKttXQu4",
+    "name" : "Oracle_Nam",
+    "type" : "Connection",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "01121X0B00000000000K"
+      },
+      "contextAttributes" : null,
+      "additionalInfo" : {
+        "description" : null,
+        "contentType" : "JSON",
+        "documentState" : "COMPLETE"
+      }
+    },
+    "path" : "/SYS"
+  } ]
+}

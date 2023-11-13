@@ -1,0 +1,45 @@
+{
+  "objectInfo" : {
+    "id" : "2WvSF3HJjvDdQVj69EOVOq",
+    "name" : "Profile_CC_ACTIVITY",
+    "type" : "PROFILE",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 1,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "db9151c7-0ad9-4e7f-b046-91694857fb79"
+      },
+      "contextAttributes" : [ ],
+      "additionalInfo" : {
+        "description" : null,
+        "contentType" : null,
+        "documentState" : "VALID"
+      }
+    }
+  },
+  "dataFileExtension" : "json",
+  "updateTime" : "2023-11-13T07:18:47.562Z",
+  "objectRefs" : [ {
+    "id" : "3IjtuPuyLHsjw0wKttXQu4",
+    "name" : "Oracle_Nam",
+    "type" : "Connection",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "01121X0B00000000000K"
+      },
+      "contextAttributes" : null,
+      "additionalInfo" : {
+        "description" : null,
+        "contentType" : "JSON",
+        "documentState" : "COMPLETE"
+      }
+    },
+    "path" : "/SYS"
+  } ]
+}

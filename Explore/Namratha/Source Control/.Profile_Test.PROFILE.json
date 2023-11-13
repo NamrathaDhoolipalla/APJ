@@ -1,0 +1,65 @@
+{
+  "objectInfo" : {
+    "id" : "8mwyEdbT6mIdPKQjpMo3aX",
+    "name" : "Profile_Test",
+    "type" : "PROFILE",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 1,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "c2b436ff-6730-4eaa-b022-24e81bd7c51e"
+      },
+      "contextAttributes" : [ ],
+      "additionalInfo" : {
+        "description" : null,
+        "contentType" : null,
+        "documentState" : "VALID"
+      }
+    }
+  },
+  "dataFileExtension" : "json",
+  "updateTime" : "2023-11-13T07:18:47.563Z",
+  "objectRefs" : [ {
+    "id" : "ctztVWuaSmpdN3vGZ2kAsO",
+    "name" : "Validate_FirstName",
+    "type" : "RULE_SPECIFICATION",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 1,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "ctztVWuaSmpdN3vGZ2kAsO"
+      },
+      "contextAttributes" : null,
+      "additionalInfo" : {
+        "description" : "The rule spec validates whether the input is a FirstName",
+        "contentType" : null,
+        "documentState" : "VALID"
+      }
+    },
+    "path" : "/Explore/Namratha/AAE Assets"
+  }, {
+    "id" : "3IjtuPuyLHsjw0wKttXQu4",
+    "name" : "Oracle_Nam",
+    "type" : "Connection",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "01121X0B00000000000K"
+      },
+      "contextAttributes" : null,
+      "additionalInfo" : {
+        "description" : null,
+        "contentType" : "JSON",
+        "documentState" : "COMPLETE"
+      }
+    },
+    "path" : "/SYS"
+  } ]
+}
