@@ -1,0 +1,23 @@
+{
+  "objectInfo" : {
+    "id" : "2AkZo24tiwGj3Di3n6Ua86",
+    "name" : "Cleanse",
+    "type" : "Folder",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : null,
+      "contextAttributes" : [ ],
+      "additionalInfo" : {
+        "description" : "",
+        "contentType" : "Binary",
+        "documentState" : "COMPLETE"
+      }
+    }
+  },
+  "dataFileExtension" : "json",
+  "updateTime" : "2023-11-24T09:59:29.470Z",
+  "objectRefs" : [ ]
+}
